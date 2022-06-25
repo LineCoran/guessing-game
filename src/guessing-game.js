@@ -1,5 +1,5 @@
 class GuessingGame {
-    constructor(index, number) {
+    constructor() {
         this.index = 2;
         this.little = 0; 
         this.higher = 0;  
